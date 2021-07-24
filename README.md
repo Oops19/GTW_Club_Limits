@@ -1,4 +1,6 @@
-#  GetToWork Club Limits Removed for TS4
-The mod removes various GTW club limits.
+# Get Together Club Limits Removed for TS4
+The mod removes various GT Club limits.
 
-[README](release_info/mod_documentation/README.md)
+New repository location: (https://github.com/Oops19/GT_Club_Limits)
+
+This mod is not for Get To Work (GTW) but for GT (Get Together).
